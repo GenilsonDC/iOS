@@ -8,25 +8,30 @@
 
 -    **Abstract**
 
-   Your destiny is in your choices, see what happens to your destiny based on your choices.
+   ```
+   -    Your destiny is in your choices, see what happens to your destiny based on your choices.
+   
+   	 I wish you good luck 🍀!
+   ```
+   
+   
+
+###    The purpose of this app is to implement the MVC design pattern and the concept of Swift Structures.
 
 
 
-​	 **I wish you good luck 🍀!**
 
 
+####  
 
-   The purpose of this app is to implement the MVC design pattern and the concept of Swift Structures.
-
-
-
-
-
+```
  Seu destino esta em suas escolhas, veja o que acontece com seu destino com base em suas escolhas. 
 
-**Lhe desejo boa sorte 🍀!**
+Lhe desejo boa sorte 🍀!
 
-O objetivo deste app é implementar o padrão de design MVC e o conceito de Swift Structures.
+```
+
+### O objetivo deste app é implementar o padrão de design MVC e o conceito de Swift Structures.
 
 
 
