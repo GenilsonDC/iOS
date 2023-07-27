@@ -28,6 +28,10 @@
 		246751F02A730D200067C6DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		246751F82A730E0C0067C6DB /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		246751FB2A730E3E0067C6DB /* StoryLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryLogic.swift; sourceTree = "<group>"; };
+		246751FD2A731F620067C6DB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		246752082A73221E0067C6DB /* LauncScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LauncScreen.png; sourceTree = "<group>"; };
+		246752092A73221F0067C6DB /* startApp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = startApp.png; sourceTree = "<group>"; };
+		2467520A2A7322260067C6DB /* buttonPressed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = buttonPressed.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +48,8 @@
 		246751D62A730D1E0067C6DB = {
 			isa = PBXGroup;
 			children = (
+				246752072A73220F0067C6DB /* Documentation */,
+				246751FD2A731F620067C6DB /* README.md */,
 				246751E12A730D1E0067C6DB /* Your destini */,
 				246751E02A730D1E0067C6DB /* Products */,
 			);
@@ -95,6 +101,16 @@
 				246751FB2A730E3E0067C6DB /* StoryLogic.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		246752072A73220F0067C6DB /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				246752092A73221F0067C6DB /* startApp.png */,
+				2467520A2A7322260067C6DB /* buttonPressed.png */,
+				246752082A73221E0067C6DB /* LauncScreen.png */,
+			);
+			path = Documentation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
