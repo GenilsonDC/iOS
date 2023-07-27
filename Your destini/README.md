@@ -2,20 +2,32 @@
 
 ![GenilsonDC Banner](Documentation/GitGenilsonDC.png)
 
-# Your Destini App
+# Your Destini  ![iconDestiniApp](Documentation/icon.png)
 
 ##  Goal
 
+**abstract**
+ Your destiny is in your choices, see what happens to your destiny based on your choices.
+
+​	 **I wish you good luck 🍀!**
+
+The purpose of this app is to implement the MVC design pattern and the concept of Swift Structures.
+
+ Seu destino esta em suas escolhas, veja o que acontece com seu destino com base em suas escolhas. 
+
+**Lhe desejo boa sorte 🍀!**
+
+O objetivo deste app é implementar o padrão de design MVC e o conceito de Swift Structures.
 
 
-The goal of this challenge is  implementing the MVC design pattern and thinking about the state of the app and reviewing the concept of Swift Structures and using it to separate the Model from the Controller. 
 
+![startApp](Documentation/startApp.png)
 
+![interation](Documentation/buttonPressed.png)
 
-![GenilsonDC Banner](Documentation/startApp.png)
+![Splash](Documentation/LauncScreen.png)
 
-![GenilsonDC Banner](Documentation/buttonPressed.png)
+![linkedin](Documentation/linkedin_icon.png) [Linkedin](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a//)
 
-![GenilsonDC Banner](Documentation/LauncScreen.png)
+![instagrm](Documentation/instag.png)  [instagran](https://www.instagram.com/genilson_carmo/)
 
-[Linkedin](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a//)

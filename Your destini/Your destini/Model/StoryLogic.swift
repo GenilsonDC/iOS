@@ -12,7 +12,7 @@ struct StoryLogic{
     
     let stories = [
                
-           Story( title: "Seu carro teve um pneu furado em uma estrada sinuosa no meio do nada, sem sinal de celular. Você decide pedir carona. Uma caminhonete enferrujada para ao seu lado. Um homem com um chapéu de aba larga e olhos sem alma abre a porta do passageiro para você e pergunta: 'Precisa de uma carona, meu jóvem?'",
+           Story( title: "Seu carro esta como pneu furado em uma estrada sinuosa no meio do nada, sem sinal de celular 📵. Você decide pedir carona. Uma caminhonete enferrujada para ao seu lado. Um homem com um chapéu de aba larga e olhos sem alma abre a porta do passageiro para você e pergunta: 'Precisa de uma carona, meu jóvem?'",
             choice1: "Opah, quero sim meu querido. Obrigado pela ajuda!", choice1Destination: 2,
             choice2: "Vixi!! Melhor perguntar a ele se ele é um assassino primeiro.", choice2Destination: 1
         ),
@@ -32,7 +32,7 @@ struct StoryLogic{
             choice2: "Fim", choice2Destination: 0
         ),
         Story(
-            title: "Enquanto você atravessa a guarda do corrimão e se precipita em direção às rochas pontiagudas abaixo, você reflete sobre a sabedoria duvidosa de esfaquear alguém enquanto está dentro de um carro.",
+            title: "Enquanto você atravessa o guard rail e se precipita em direção às rochas pontiagudas do barranco abaixo, você reflete sobre a sabedoria duvidosa de esfaquear alguém enquanto está dentro de um carro.",
             choice1: "e é isso", choice1Destination: 0,
             choice2: "Fim", choice2Destination: 0
         ),
