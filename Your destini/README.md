@@ -45,5 +45,13 @@ Lhe desejo boa sorte 🍀!
 
 ![Splash](Documentation/LauncScreen.png)
 
-[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/) [Linkedin](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)      |       [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/)  [instagran](https://www.instagram.com/genilson_carmo/)
+[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)
+
+ [Linkedin](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)      
+
+
+
+​    [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/) 
+
+ [instagran](https://www.instagram.com/genilson_carmo/)
 
