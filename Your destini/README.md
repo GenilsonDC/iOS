@@ -2,14 +2,14 @@
 
 ![GenilsonDC Banner](Documentation/GitGenilsonDC.png)
 
-# Your Destini  ![iconDestiniApp](Documentation/icon.png)
+# 🍀 Your Destini  ![iconDestiniApp](Documentation/icon.png)
 
 ##  Goal
 
 -    **Abstract**
 
    ```
-   -    Your destiny is in your choices, see what happens to your destiny based on your choices.
+     Your destiny is in your choices, see what happens to your destiny based on your choices.
    
    	 I wish you good luck 🍀!
    ```
@@ -22,12 +22,12 @@
 
 
 
-####  
+##  Objetivo
 
 ```
  Seu destino esta em suas escolhas, veja o que acontece com seu destino com base em suas escolhas. 
 
-Lhe desejo boa sorte 🍀!
+   Lhe desejo boa sorte 🍀!
 
 ```
 
@@ -45,5 +45,5 @@ Lhe desejo boa sorte 🍀!
 
 ![Splash](Documentation/LauncScreen.png)
 
-[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)   |   [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/) 
+[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)     [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/) 
 
