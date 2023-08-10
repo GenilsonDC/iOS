@@ -1,14 +1,8 @@
 ![GenilsonDC Banner](Documentation/GitGenilsonDC.png)
 
-# iOS Swifit  
+# 🧡 iOS Swifit  
 
-
-
-
-
-![Apple Logo](Documentation/appleLogo.png)
-
-![Swift](Documentation/swift.png)     ![XCode](Documentation/Xcode.png)
+![Apple Logo](Documentation/appleLogo.png) ![Swift](Documentation/swift.png)      ![XCode](Documentation/Xcode.png)
 
 
 
@@ -26,12 +20,12 @@
 ####  
 
 ```
-  Aqui estão alguns apps que venho desenvolvendo a partir de práticas de estudo de e ideias. ✨ 
+  Venho desenvolvendo conhecimento em Desenvolvimento de Apps iOS aplicando:  UIKit, Swift, Objective-C, Desing pattern, Custom View Swift Structures, Orientação a Objetos, Clean Code e boas práticas de programação
 ```
 
 
 
-![Splash](Documentation/LauncScreen.png)
+![Splash](Documentation/LauncScreen.png) ![Splash](Documentation/HomeScreen.png)
 
 
 
