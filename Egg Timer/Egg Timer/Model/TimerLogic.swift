@@ -21,7 +21,7 @@ class TimerLogic {
     private var totaltimer = 0
     private var player: AVAudioPlayer?
 
-    let pontoGema = ["Soft": 360, "Média": 480, "Dura": 720]
+    let pontoGema = ["Soft": 380, "Média": 480, "Dura": 720]
 
     func startTimer(for escolha: String) {
         totaltimer = pontoGema[escolha]!
