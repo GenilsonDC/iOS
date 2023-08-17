@@ -23,9 +23,9 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="tAf-v4-5ua">
                                 <rect key="frame" x="16" y="59" width="361" height="759"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CALCATE YOUR BMI" textAlignment="justified" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pSm-9P-lRU">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CALCULATE YOUR BMI" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pSm-9P-lRU">
                                         <rect key="frame" x="0.0" y="0.0" width="361" height="491"/>
-                                        <fontDescription key="fontDescription" name="DamascusMedium" family="Damascus" pointSize="65"/>
+                                        <fontDescription key="fontDescription" name="DamascusMedium" family="Damascus" pointSize="59"/>
                                         <color key="textColor" red="0.5126069648009377" green="0.46220352877363446" blue="0.66498403838186548" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <nil key="highlightedColor"/>
                                     </label>
@@ -100,7 +100,7 @@
                                         <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="27"/>
                                         <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                         <state key="normal" title="CALCULATE">
-                                            <color key="titleColor" systemColor="systemGray6Color"/>
+                                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
                                             <action selector="calculateButtonPress:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3iV-3c-tg8"/>
@@ -170,7 +170,7 @@
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cNU-UZ-EUk" userLabel="RECALCULATE">
                                 <rect key="frame" x="16" y="790" width="361" height="52"/>
-                                <color key="backgroundColor" systemColor="systemGray6Color"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="52" id="AkJ-p2-lVw"/>
                                 </constraints>
